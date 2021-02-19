@@ -50,7 +50,4 @@ pFactors = prime_factors(factors)
 pFactorized = factorize(pFactors)
 
 # Output
-print("\nGreat! Let's get this sorted for you.")
-print("Factors:", factors)
-print("Factors (Prime Numbers Only): ", pFactors)
-print("Prime Factors: ", pFactorized)
+print("\nGreat! Let's get this sorted for you.\nFactors:", factors, "\nFactors (Prime Numbers Only): ", pFactors, "\nPrime Factors: ", pFactorized)
